@@ -1,0 +1,25 @@
+{
+  "name": "swade-de",
+  "title": "SWADE German translation",
+  "description": "Adds German to the SWADE system",
+  "version": "0.0.1",
+  "minimumCoreVersion" : "0.7.5",
+  "compatibleCoreVersion" : "0.7.8",
+  "author": "André Schreiter",
+      
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  
+  "languages": [
+    {
+      "lang": "de",
+      "name": "German",
+      "path": "de.json"
+    }
+  ],
+  
+  "url": "https://github.com/xenexelen/foundryvtt-swade-de",
+  "manifest": "https://github.com/xenexelen/foundryvtt-swade-de/releases/download/latest/module.json",
+  "download": "https://github.com/xenexelen/foundryvtt-swade-de/releases/download/0.0.1/module.zip"
+}
